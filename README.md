@@ -7,18 +7,6 @@
 
 ---
 
-### 🌐 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaocerri/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://joaocerri.github.io/Portifolio-Joao/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfólio"/>
-  </a>
-</p>
-
----
 
 ### 🛠️ Linguagens e Tecnologias
 <p align="center">
@@ -35,6 +23,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaocerri&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocerri&layout=compact&theme=tokyonight" alt="Top Langs" height="160"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaocerri/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://joaocerri.github.io/Portifolio-Joao/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfólio"/>
+  </a>
 </p>
 
 ---
