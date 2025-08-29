@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Cerri!  
 
-<!--
-**joaocerri/joaocerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP Campinas.  
+💻 Apaixonado por tecnologia, programação e por desenvolver soluções que fazem a diferença.  
+🚀 Atualmente explorando novas ferramentas e construindo projetos para aprimorar minhas habilidades.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Linguagens
+- **C**
+- **C#**
+- **Python**
+- **HTML5**
+- **CSS3**
+
+---
+
+## 🌐 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/joaocerri/)  
+- 🌎 [Meu Portfólio](https://joaocerri.github.io/Portifolio-Joao/)  
+
+---
+
+✨ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais. Estou sempre aberto a aprender, colaborar e compartilhar conhecimento.  
