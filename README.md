@@ -9,11 +9,12 @@
 
 ### 🌐 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaocerri/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/joaocerri/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://joaocerri.github.io/Portifolio-Joao/">
-    <img src="https://img.shields.io/badge/-Portfólio-black?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://joaocerri.github.io/Portifolio-Joao/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfólio"/>
   </a>
 </p>
 
@@ -21,11 +22,11 @@
 
 ### 🛠️ Linguagens e Tecnologias
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
 </p>
 
 ---
