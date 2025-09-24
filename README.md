@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" height="50" alt="CSS"/>
+  <img src="https://icon2.cleanpng.com/20180429/ukw/kisspng-cascading-style-sheets-html-web-page-5ae55eb45423e6.4422717315249814283446.jpg" width="50" height="50" alt="CSS"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" height="50" alt="MySQL"/>
   <img src="https://img.icons8.com/color/512/git.png" width="50" height="50" alt="Git"/>
 </p>
