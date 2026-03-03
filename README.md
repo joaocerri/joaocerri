@@ -43,4 +43,4 @@
   - 🌱 Sempre buscando aprender mais sobre programação, dados e desenvolvimento web.  
   - 🚀 Objetivo: crescer na área de tecnologia e contribuir com projetos inovadores.  
 </details>
->
+
