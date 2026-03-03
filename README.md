@@ -38,9 +38,9 @@
 <details>
   <summary>✨ Um pouco mais sobre mim</summary>
   <br>
-  - 🎓 Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas no IFSP Campinas.  
-  - 💻 Experiência com C, C#, .NET, Python, HTML e CSS.  
-  - 🌱 Sempre buscando aprender mais sobre programação, dados e desenvolvimento web.  
+  - 🎓 Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas no IFSP Campinas.  <br>
+  - 💻 Experiência com C, C#, .NET, Python, HTML e CSS.  <br>
+  - 🌱 Sempre buscando aprender mais sobre programação, dados e desenvolvimento web.  <br>
   - 🚀 Objetivo: crescer na área de tecnologia e contribuir com projetos inovadores.  
 </details>
 
