@@ -1,46 +1,68 @@
 <h1 align="center">👋 Olá, eu sou o João Cerri!</h1>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> no IFSP Campinas.<br>
-  Apaixonado por <b>tecnologia, aprendizado contínuo</b> e por transformar ideias em soluções reais. 🚀
+  <b>Estágiario de Desenvolvimento & Inovação na Scania</b><br>
+  Estudante de Análise e Desenvolvimento de Sistemas no IFSP Campinas.<br>
+  Focado em automação de processos, inovação tecnológica e ecossistema .NET. 🚀
 </p>
 
 ---
 
+### 🛠️ Tech Stack & Enterprise Tools
 
-### 🛠️ Linguagens e Tecnologias
+#### **Development & Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,py,mysql,git" />
+  </a>
+</p>
+
+#### **Low-Code & Business Solutions (Daily Work at Scania Latin America)**
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Power_Apps-001242?style=for-the-badge&logo=microsoftpowerapps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### 💼 Experiência Atual
+**Estagiário de Desenvolvimento @ Scania**
+* Atuação com a **Power Platform** (Power Apps e Power Automate) para otimização de processos internos.
+* Suporte na gestão de dados e listas utilizando **SharePoint**.
+* Criação de relatórios e visualização de dados com **Power BI**.
+* Desenvolvimento de lógica e fluxos de trabalho para soluções corporativas.
+
+---
+
+### 📂 Projetos em Destaque
+
+| Projeto | Descrição Técnica | Stack |
+| :--- | :--- | :--- |
+| [📌 Inventory System](https://github.com/joaocerri/CRUD) | CRUD desenvolvido com conexão via SQL e consumo de api via cep. | C#, .NET, SQL |
+| [📊 SQL Fundamentals](https://github.com/joaocerri/SQL-Fundamentals) | Laboratório de queries e fundamentos de Banco de Dados. | MySQL |
+| [🚀 Extension App](https://github.com/joaocerri/Projeto-de-ExtensaoV2) | Projeto acadêmico focado em solucionar um problema real e gerar impacto social. | C#, .NET |
+
+---
+
+### 📈 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://img.icons8.com/color/96/c-programming.png" width="50" height="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
-  <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" width="50" height="50" alt=".NET"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" height="50" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/512/git.png" width="50" height="50" alt="Git"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=joaocerri&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaocerri&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Conecte-se comigo
+
 <p align="center">
   <a href="https://www.linkedin.com/in/joaocerri/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://joaocerri.github.io/Portifolio-Joao/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="Portfólio"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="45" height="45" alt="Portfólio"/>
   </a>
 </p>
-
----
-
-<details>
-  <summary>✨ Um pouco mais sobre mim</summary>
-  <br>
-  - 🎓 Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas no IFSP Campinas.  <br>
-  - 💻 Experiência com C, C#, .NET, Python, HTML e CSS.  <br>
-  - 🌱 Sempre buscando aprender mais sobre programação, dados e desenvolvimento web.  <br>
-  - 🚀 Objetivo: crescer na área de tecnologia e contribuir com projetos inovadores.  
-</details>
-
